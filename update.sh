@@ -26,8 +26,7 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone 
-https://github.com/tanggengyao1/leida.git
+git clone https://github.com/tanggengyao1/leida.git
 cd leida/
 npm i
 npm i -g pino
