@@ -1,6 +1,6 @@
-﻿#!/bin/bash
+#!/bin/bash
 echo "欢迎使用网页雷达一键脚本"
-echo "即将搭建的是咏圣的4.2版本"
+echo "即将搭建的是尧的4.2版本"
 echo "请输入你的内网ip" 
 read -p "内网ip： " ip
 cp /root/leida/restart.sh /root/restart.sh
